@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of davis/flarum-ext-securehttps.** Not for installation: use [Packagist](https://packagist.org/packages/davis/flarum-ext-securehttps) or the [upstream repository](https://github.com/dav-is/flarum-ext-securehttps).
 
-**0** versions archived · Latest: [`0.1.0-beta6`](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta6) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**6** versions archived · Latest: [`0.1.0-beta6`](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta6) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0-beta1` | 2016-04-23 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta1) |
+| `0.1.0-beta2` | 2016-04-23 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta2) |
+| `0.1.0-beta3` | 2016-05-06 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta3) |
+| `0.1.0-beta4` | 2016-05-07 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta4) |
+| `0.1.0-beta5` | 2017-07-21 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta5) |
+| `0.1.0-beta6` | 2018-08-04 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/davis-flarum-ext-securehttps/tree/archive/v0.1.0-beta6) |
 
 Catalog entry: [packages/davis-flarum-ext-securehttps.json](https://github.com/flarchive/archive-index/blob/main/packages/davis-flarum-ext-securehttps.json)
 
